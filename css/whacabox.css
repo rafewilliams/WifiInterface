@@ -1,0 +1,8 @@
+.center-wrapper{
+text-align: center; 
+}
+.center-wrapper * {
+margin: 0 auto;
+}
+
+h1{font-size:3em; }
